@@ -1,0 +1,22 @@
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
+~$*
+
+# 小说项目产物（这个仓库只放模板，不放个人稿件）
+正文存稿/
+设定文档/人物状态表.md
+设定文档/伏笔追踪表.md
+大纲细纲/章节梗概.md
+版本备份/
+
+# 本地配置
+notification_config.json
+.env
